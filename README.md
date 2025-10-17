@@ -93,21 +93,22 @@ Open your browser and go to
 
 Below are screenshots from the site (s1 → s15):
 
-![s1](./screenshots/s1.jpg)
-![s2](./screenshots/s2.jpg)
-![s3](./screenshots/s3.jpg)
-![s4](./screenshots/s4.jpg)
-![s5](./screenshots/s5.jpg)
-![s6](./screenshots/s6.jpg)
-![s7](./screenshots/s7.jpg)
-![s8](./screenshots/s8.jpg)
-![s9](./screenshots/s9.jpg)
-![s10](./screenshots/s10.jpg)
-![s11](./screenshots/s11.jpg)
-![s12](./screenshots/s12.jpg)
-![s13](./screenshots/s13.jpg)
-![s14](./screenshots/s14.jpg)
-![s15](./screenshots/s15.jpg)
+![s1](public/images/s1.jpg)
+![s2](public/images/s2.jpg)
+![s3](public/images/s3.jpg)
+![s4](public/images/s4.jpg)
+![s5](public/images/s5.jpg)
+![s6](public/images/s6.jpg)
+![s7](public/images/s7.jpg)
+![s8](public/images/s8.jpg)
+![s9](public/images/s9.jpg)
+![s10](public/images/s10.jpg)
+![s11](public/images/s11.jpg)
+![s12](public/images/s12.jpg)
+![s13](public/images/s13.jpg)
+![s14](public/images/s14.jpg)
+![s15](public/images/s15.jpg)
+
 
 🧁 Thank You for Visiting!
 Enjoy exploring our sweet creations!
